@@ -1,6 +1,3 @@
-[Personal Fork]
-
-
 FFmpeg.wasm Core
 ================
 
